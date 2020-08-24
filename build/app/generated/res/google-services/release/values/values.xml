@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">954669541759-g5kakgolc5ti94vh95ar8uvdpuialhhh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://college-manager-39180.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">954669541759</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRqnrrFRlWRusCtmHlQGSc7KZimbV41G4</string>
+    <string name="google_app_id" translatable="false">1:954669541759:android:c6244ad5c7d5d101cc924a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRqnrrFRlWRusCtmHlQGSc7KZimbV41G4</string>
+    <string name="google_storage_bucket" translatable="false">college-manager-39180.appspot.com</string>
+    <string name="project_id" translatable="false">college-manager-39180</string>
+</resources>

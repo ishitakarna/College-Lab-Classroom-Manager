@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954669541759",
+    "firebase_url": "https://college-manager-39180.firebaseio.com",
+    "project_id": "college-manager-39180",
+    "storage_bucket": "college-manager-39180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954669541759:android:c6244ad5c7d5d101cc924a",
+        "android_client_info": {
+          "package_name": "com.example.CollegeManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954669541759-e40v10k3fo6dsnjamc0lcbsu25eg114q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CollegeManager",
+            "certificate_hash": "c2df9a7ff4c9496ed67bb11a2651be6f0bca2c37"
+          }
+        },
+        {
+          "client_id": "954669541759-g5kakgolc5ti94vh95ar8uvdpuialhhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqnrrFRlWRusCtmHlQGSc7KZimbV41G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954669541759-g5kakgolc5ti94vh95ar8uvdpuialhhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:28
+-keep class com.example.CollegeManager.MainActivity { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:136
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:113
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:70
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:121
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:105
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:130
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /home/ishitakarna/Apps/CollegeManager/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:96
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }

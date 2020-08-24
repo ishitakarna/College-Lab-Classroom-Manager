@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/ishitakarna/Apps/CollegeManager/build/shared_preferences_web/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/ishitakarna/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ishitakarna/Apps/CollegeManager/build/shared_preferences_web/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/ishitakarna/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ishitakarna/Apps/CollegeManager/build/shared_preferences_web/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ishitakarna/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ishitakarna/Apps/CollegeManager/build/shared_preferences_web/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/ishitakarna/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ishitakarna/Apps/CollegeManager/build/shared_preferences_web/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/ishitakarna/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    }
+]
